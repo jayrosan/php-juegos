@@ -805,3 +805,34 @@ input, select, textarea {
 				}
 
 		}
+
+		.sesion {
+    padding: 10px;
+    margin-right: 800px;
+    margin-left: 300px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #000000;
+    background: linear-gradient(#FFDA63, #FFB940);
+    border-radius: 6px;
+    border: 2px solid #FFDA63;
+    top: -115px;
+    position: relative;
+	
+}
+
+.registrarse{
+	padding: 10px;
+    margin-right: 150px;
+    margin-left: 500px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #000000;
+    background: linear-gradient(#FFDA63, #FFB940);
+    border-radius: 6px;
+    border: 2px solid #FFDA63;
+    top: -150px;
+    position: relative;
+    margin-top: -355px;
+}
+
